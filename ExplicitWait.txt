@@ -1,0 +1,10 @@
+1)using getTitle() method O/P------>actiTIME - Login
+2)Without any wait ----->O/P------>actiTIME - Login--->false
+3)With Thread.sleep wait----->O/P----->actiTIME - Enter Time-Track---->true
+3)with explicit wait----->O/P------>
+
+
+
+
+Loginpagetitle=actiTIME - Login
+homepagetitle=actiTIME - Enter Time-Track
