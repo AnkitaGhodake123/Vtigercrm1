@@ -1,0 +1,50 @@
+Corelative Xpath for text Mobiles & Tablets
+//div[2]/a/div[2]
+
+Corelative Xpath for text Electronics
+//div[3]/a/div[2]
+
+Corelative Xpath for text TVs & Appliances
+//div[4]/a/div[2]
+
+Corelative Xpath for text Fashion
+//div[5]/a/div[2]
+
+Corelative Xpath for text Beauty
+//div[6]/a/div[2]
+
+Corelative Xpath for text Home & Furniture
+//div[7]/a/div[2]
+
+Corelative Xpath for text Flights
+//div[8]/a/div[2]
+
+Corelative Xpath for text Grocery
+//div[9]/a/div[2]
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Corelative Xpath for image Mobiles & Tablets
+//div[2]/a/div[1]/div/img
+
+Corelative Xpath for image Electronics
+//div[3]/a/div[1]/div/img
+
+Corelative Xpath for image TVs & Appliances
+//div[4]/a/div[1]/div/img
+
+Corelative Xpath for image Fashion
+//div[5]/a/div[1]/div/img
+
+Corelative Xpath for image  Beauty
+//div[6]/a/div[1]/div/img
+
+Corelative Xpath for image Home & Furniture
+//div[7]/a/div[1]/div/img
+
+Corelative Xpath for image Flights
+//div[8]/a/div[1]/div/img
+
+Corelative Xpath for image Grocery
+//div[9]/a/div[1]/div/img
+
