@@ -1,0 +1,34 @@
+<img loading="lazy" class="_396cs4" alt="Mobiles &amp; Tablets" src="https://rukminim1.flixcart.com/fk-p-flap/128/128/image/d64cae0f8081256a.png?q=100">
+img[loading='lazy']
+img[class='_396cs4']
+img[alt='Mobiles & Tablets']//1 of 1 duplicates
+<img loading="lazy" class="_396cs4" alt="Electronics" src="https://rukminim1.flixcart.com/fk-p-flap/128/128/image/7dbcda527b648814.png?q=100">
+img[loading='lazy']
+img[class='_396cs4']
+img[alt='Electronics']//1 of 1 duplicates
+<img loading="lazy" class="_396cs4" alt="TVs &amp; Appliances" src="https://rukminim1.flixcart.com/fk-p-flap/128/128/image/e29a070388d534a5.png?q=100">
+img[loading='lazy']
+img[class='_396cs4']
+img[alt='TVs & Appliances']//1 of 1 duplicates
+<img loading="lazy" class="_396cs4" alt="Fashion" src="https://rukminim1.flixcart.com/fk-p-flap/128/128/image/d44ffc537ed6e241.png?q=100">
+img[loading='lazy']
+img[class='_396cs4']
+img[alt='Fashion']//1 of 1 duplicates
+<img loading="lazy" class="_396cs4" alt="Beauty" src="https://rukminim1.flixcart.com/fk-p-flap/128/128/image/994a83c90019fb5f.png?q=100">
+img[loading='lazy']
+img[class='_396cs4']
+img[alt='Beauty']//1 of 1 duplicates
+<img loading="lazy" class="_396cs4" alt="Home &amp; Furniture" src="https://rukminim1.flixcart.com/fk-p-flap/128/128/image/d300931a0fd1c17e.png?q=100">
+img[loading='lazy']
+img[class='_396cs4']
+img[alt='Home & Furniture']//1 of 1 duplicates
+<img loading="lazy" class="_396cs4" alt="Flights" src="https://rukminim1.flixcart.com/fk-p-flap/128/128/image/2dac2decff60c650.png?q=100">
+img[loading='lazy']
+img[class='_396cs4']
+img[alt='Flights']//1 of 1 duplicates
+<img loading="lazy" class="_396cs4" alt="Grocery" src="https://rukminim1.flixcart.com/fk-p-flap/128/128/image/aecfaba5969b96dd.png?q=100">
+img[loading='lazy']
+img[class='_396cs4']
+img[ alt='Grocery']//1 of 1 duplicates
+<button class="_2KpZ6l _2doB4z">✕</button>
+button[class='_2KpZ6l _2doB4z']//1 of 1 duplicates
