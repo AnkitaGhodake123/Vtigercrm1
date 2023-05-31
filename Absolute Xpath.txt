@@ -1,0 +1,75 @@
+Absolute Xpath for text Electronics
+html
+html/body
+html/body/div
+html/body/div/div
+html/body/div/div/div[2]
+html/body/div/div/div[2]/div
+html/body/div/div/div[2]/div/div
+html/body/div/div/div[2]/div/div/div[3]
+html/body/div/div/div[2]/div/div/div[3]/a
+html/body/div/div/div[2]/div/div/div[3]/a/div[2]
+
+Absolute Xpath for text Mobiles & Tablets
+html/body/div/div/div[2]/div/div/div[2]/a/div[2]
+
+Absolute Xpath for text TVs & Appliances
+html/body/div/div/div[2]/div/div/div[4]/a/div[2]
+
+Absolute Xpath for text Fashion
+html/body/div/div/div[2]/div/div/div[5]/a/div[2]
+
+Absolute Xpath for text Beauty
+html/body/div/div/div[2]/div/div/div[6]/a/div[2]
+
+Absolute Xpath for text Home & Furniture
+html/body/div/div/div[2]/div/div/div[7]/a/div[2]
+
+Absolute Xpath for text Flights
+html/body/div/div/div[2]/div/div/div[8]/a/div[2]
+
+Absolute Xpath for text Grocery
+html/body/div/div/div[2]/div/div/div[9]/a/div[2]
+
+
+Absolute Xpath for image Electronics
+html
+html/body
+html/body/div
+html/body/div/div
+html/body/div/div/div[2]
+html/body/div/div/div[2]/div
+html/body/div/div/div[2]/div/div
+html/body/div/div/div[2]/div/div/div[3]
+html/body/div/div/div[2]/div/div/div[3]/a
+html/body/div/div/div[2]/div/div/div[3]/a/div[1]
+html/body/div/div/div[2]/div/div/div[3]/a/div[1]/div
+html/body/div/div/div[2]/div/div/div[3]/a/div[1]/div/img
+
+Absolute Xpath for image Mobiles & Tablets
+html/body/div/div/div[2]/div/div/div[2]/a/div[1]/div/img
+
+Absolute Xpath for image TVs & Appliances
+html/body/div/div/div[2]/div/div/div[4]/a/div[1]/div/img
+
+Absolute Xpath for image Fashion
+html/body/div/div/div[2]/div/div/div[5]/a/div[1]/div/img
+
+
+Absolute Xpath for image Beauty
+html/body/div/div/div[2]/div/div/div[6]/a/div[1]/div/img
+
+
+Absolute Xpath for image Home & Furniture
+html/body/div/div/div[2]/div/div/div[7]/a/div[1]/div/img
+
+
+
+Absolute Xpath for image Flights
+html/body/div/div/div[2]/div/div/div[8]/a/div[1]/div/img 
+
+
+
+Absolute Xpath for image Grocery
+html/body/div/div/div[2]/div/div/div[9]/a/div[1]/div/img
+
